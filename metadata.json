@@ -1,0 +1,5 @@
+{
+  "name": "Astro Persona AI",
+  "description": "An application that generates personalized astrological readings by combining precise astrophysical calculations with AI-powered narratives, providing actionable insights through an interactive natal chart.",
+  "requestFramePermissions": []
+}
